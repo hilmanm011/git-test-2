@@ -7,6 +7,8 @@
     <title>coba git</title>
 </head>
 <body>
-    <h1>belajar git
+    <h1>belajar git</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus neque enim, placeat doloremque hic deserunt quidem cupiditate, quasi accusamus earum quaerat adipisci,
+     sint quos et numquam eligendi maxime sapiente pariatur?</p>
 </body>
 </html>
